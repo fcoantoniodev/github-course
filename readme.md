@@ -8,6 +8,4 @@ Nova mendagem
 
 testando Stach
 
-Mais um teste
-
-Teste Git Revert
+Mais um teste 
